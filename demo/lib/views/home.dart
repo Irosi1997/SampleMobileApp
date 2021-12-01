@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:demo/commons/arguements.dart';
+import 'package:demo/common/arguements.dart';
 
 class HomePage extends StatefulWidget {
   HomePage({Key key, this.title}) : super(key: key);

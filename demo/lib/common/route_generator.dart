@@ -6,7 +6,7 @@ import 'package:demo/views/second_page.dart';
 import 'package:demo/views/third_page.dart';
 import 'package:demo/views/user_profile.dart';
 import 'package:demo/views/users.dart';
-import 'package:demo/commons/arguements.dart';
+import 'package:demo/common/arguements.dart';
 
 class RouteGenerator {
   static Route<dynamic> generateRoute(RouteSettings settings) {
